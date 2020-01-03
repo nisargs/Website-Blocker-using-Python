@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10628e50-caf9-4bd7-8b87-c003b5aa0b02" name="Default Changelist" comment="" />
+    <list default="true" id="10628e50-caf9-4bd7-8b87-c003b5aa0b02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_blocker.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_blocker.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.website_blocker">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="website_blocker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="website_blocker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="website_blocker" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +79,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.website_blocker" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -80,39 +106,54 @@
       <option name="presentableId" value="Default" />
       <updated>1577980309410</updated>
       <workItem from="1577980311095" duration="2871000" />
+      <workItem from="1578023718875" duration="3098000" />
+      <workItem from="1578059749256" duration="250000" />
     </task>
+    <task id="LOCAL-00001" summary="Another Commit">
+      <created>1578023842070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578023842070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Another Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1578023841285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578023841285" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1577983499358">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1578059915135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577983499358" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1577983499358">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1578059915135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577983499358" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1577983499358">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1578059915135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577983499358" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1577983499358">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1578059915135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577983499358" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
     <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1578023928455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578023928455" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/website_blocker$website_blocker.coverage" NAME="website_blocker Coverage Results" MODIFIED="1577982586812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website_blocker$website_blocker.coverage" NAME="website_blocker Coverage Results" MODIFIED="1578059908752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website_blocker$test.coverage" NAME="test Coverage Results" MODIFIED="1578048999416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
