@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10628e50-caf9-4bd7-8b87-c003b5aa0b02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website_blocker.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_blocker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_blocker.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.website_blocker">
+  <component name="RunManager" selected="Python.test">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="website_blocker" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/website_blocker.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Nisarg\PycharmProjects\website_blocker\website_blocker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.website_blocker" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -107,7 +106,9 @@
       <updated>1577980309410</updated>
       <workItem from="1577980311095" duration="2871000" />
       <workItem from="1578023718875" duration="3098000" />
-      <workItem from="1578059749256" duration="250000" />
+      <workItem from="1578059749256" duration="1695000" />
+      <workItem from="1578062076312" duration="22000" />
+      <workItem from="1578062319855" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="Another Commit">
       <created>1578023842070</created>
@@ -131,22 +132,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578023841285" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1578059915135">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1578061959805">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1578059915135">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578061959805" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1578061959801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1578059915135">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578061959801" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1578061959801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1578059915135">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578061959801" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1578061959805">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578059915135" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578061959805" />
     <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1578023928455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
